@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hoangtrunghai2005/test-gh-pages.git/static/css/main.bac0ba8c.css",
+    "main.js": "/hoangtrunghai2005/test-gh-pages.git/static/js/main.34bf0126.js",
+    "index.html": "/hoangtrunghai2005/test-gh-pages.git/index.html",
+    "main.bac0ba8c.css.map": "/hoangtrunghai2005/test-gh-pages.git/static/css/main.bac0ba8c.css.map",
+    "main.34bf0126.js.map": "/hoangtrunghai2005/test-gh-pages.git/static/js/main.34bf0126.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bac0ba8c.css",
+    "static/js/main.34bf0126.js"
+  ]
+}
